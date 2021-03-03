@@ -1,3 +1,15 @@
 body{
-    color: red;
+    color: #2c2b2b;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column
+
+}
+.git{
+        color:#249460;
+        font-size: 5rem;
+        
 }
